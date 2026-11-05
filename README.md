@@ -1,6 +1,7 @@
 Supplementary Tables
 
 Table 1: Finalised Codebook
+
 |Codename                  |Definition                                                                                                                                        |Example                                                                            |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 |ABILITY                   |Expressions of confidence or demonstrations of a student's technical, critical, communication, or academic competencies.                          |communication skill, academic writing ability, quality of final arguments structure|
@@ -21,6 +22,7 @@ Table 1: Finalised Codebook
 
 
 Table 2: Disclosure Comfort Levels against Codes
+
 |Codes                     |Keep private                                                                                                                                      |Show to peers                                                                      |Show to teachers|
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------|
 |IMPROVEMENT               |3.23%                                                                                                                                             |29.03%                                                                             |67.74%          |
@@ -41,6 +43,7 @@ Table 2: Disclosure Comfort Levels against Codes
 
 
 Table 3: Disclosure Comfort Levels against Perceived Sensitivity
+
 |Codes                         |Keep private                                                                                                                                      |Show to peers                                                                      |Show to teachers|
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------|
 |Not very sensitive            |8.06%                                                                                                                                             |20.97%                                                                             |70.97%          |
@@ -50,6 +53,7 @@ Table 3: Disclosure Comfort Levels against Perceived Sensitivity
 
 
 Table 4: Process Data Distribution on Codes
+
 |Codes                     |AI prompts and responses                                                                                                                          |Contribution percentage                                                            |Copy/pastes actions|Edits and tracked changes|Final text (submission)|Number of revisions|Other |Time spent writing|Typing activity|Writing replays/history|
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------|-------------------------|-----------------------|-------------------|------|------------------|---------------|-----------------------|
 |IMPROVEMENT               |29.55%                                                                                                                                            |20.00%                                                                             |0.00%              |16.00%                   |7.14%                  |13.33%             |28.57%|10.53%            |6.25%          |5.26%                  |
