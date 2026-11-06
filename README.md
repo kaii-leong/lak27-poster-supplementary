@@ -42,17 +42,7 @@
 
 ---
 
-## Table 3: Disclosure Comfort Levels against Perceived Sensitivity
-
-| Codes | Keep private | Show to peers | Show to teachers |
-| :--- | :--- | :--- | :--- |
-| Not very sensitive | 8.06% | 20.97% | 70.97% |
-| Moderately sensitive (middle) | 18.42% | 28.95% | 52.63% |
-| Very sensitive | 30.56% | 8.33% | 61.11% |
-
----
-
-## Table 4: Process Data Distribution on Codes
+## Table 3: Process Data Distribution on Codes
 
 | Codes | AI prompts and responses | Contribution percentage | Copy/pastes actions | Edits and tracked changes | Final text (submission) | Number of revisions | Other | Time spent writing | Typing activity | Writing replays/history |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -70,3 +60,12 @@
 | PROTECTION | 0.00% | 0.00% | 14.29% | 0.00% | 0.00% | 0.00% | 7.14% | 0.00% | 6.25% | 5.26% |
 | SCOPE | 11.36% | 0.00% | 0.00% | 8.00% | 0.00% | 6.67% | 0.00% | 5.26% | 6.25% | 5.26% |
 | DEFICIENCIES | 2.27% | 0.00% | 14.29% | 0.00% | 0.00% | 0.00% | 0.00% | 5.26% | 0.00% | 15.79% |
+---
+
+## Table 4: Disclosure Comfort Levels against Perceived Sensitivity
+
+| Codes | Keep private | Show to peers | Show to teachers |
+| :--- | :--- | :--- | :--- |
+| Not very sensitive | 8.06% | 20.97% | 70.97% |
+| Moderately sensitive (middle) | 18.42% | 28.95% | 52.63% |
+| Very sensitive | 30.56% | 8.33% | 61.11% |
